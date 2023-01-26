@@ -16,6 +16,6 @@
 `python kf_scratch.py`
 
 and change whether to run main, example or robot_estimate function.
-Each of those function corresponds to those data example files mentioned above. The main function just randomly generate the data in the code so no data file will be provided.
+Each of those function corresponds to those data example files mentioned above. The main function just randomly generates the data in the code so no data file will be provided.
 
 
